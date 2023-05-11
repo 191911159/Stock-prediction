@@ -6,7 +6,7 @@ import datetime
 
 # App title
 st.markdown('''
-# Stock Price App
+# Tesla Stock Price App
 Shown are the stock price data for query companies!
 
 - Stock price prediction is the process of forecasting the future movements of stock prices based on historical data, market trends, and other relevant factors. Investors and traders use stock price prediction to make informed decisions about buying and selling stocks.
